@@ -3,8 +3,8 @@ author: "Yusuke Sangenya"
 date: 2017-02-24
 linktitle: 資料システム
 title: 資料システム
-description: 熊野寮内部で使われているブログサイトのような何か
-isCJKLanguage: true
+description: 熊野寮内部で使われているブログサイトのようなもの
+thumbnail: "python.svg"
 weight: 5
 ---
 
