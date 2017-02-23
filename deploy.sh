@@ -25,6 +25,9 @@ fi
 # サイトを生成
 ${HUGO_BIN}
 
+git config --global user.email "info@kumano-ryo.com"
+git config --global user.name "Travis CI"
+
 # commit & push
 cp -r ${HTML_DIR}/* kumano-dormitory.github.io/
 cd kumano-dormitory.github.io
