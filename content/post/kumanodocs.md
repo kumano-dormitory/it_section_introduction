@@ -1,14 +1,14 @@
 ---
 author: "Yusuke Sangenya"
 date: 2017-02-24
-linktitle: ブログサイトのような何か
-title: ブログサイトのような何か
+linktitle: 資料システム
+title: 資料システム
 description: 熊野寮内部で使われているブログサイトのような何か
-tags = [
+tags : [
     "Web",
     "Python",
     "Django",
-    "Ruby on Rails",
+    "RoR",
     "制作物"
 ]
 weight: 5
