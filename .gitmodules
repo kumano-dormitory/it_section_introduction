@@ -3,4 +3,4 @@
 	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
 [submodule "themes/hugo_theme_aglaus"]
 	path = themes/hugo_theme_aglaus
-	url = https://github.com/genya0407/hugo_theme_aglaus.git
+	url = https://github.com/kumano-dormitory/hugo_theme_aglaus.git
