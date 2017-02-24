@@ -23,7 +23,7 @@ if [ ! -d "./kumano-dormitory.github.io" ];then
 fi
 
 # サイトを生成
-rm -r ${HTML_DIR}/*
+ls
 ${HUGO_BIN}
 
 git config --global user.email "info@kumano-ryo.com"
