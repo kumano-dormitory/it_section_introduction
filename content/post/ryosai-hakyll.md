@@ -4,7 +4,7 @@ date: 2017-02-24
 linktitle: 熊野寮祭 告知ページ
 title: 熊野寮祭 告知ページ
 description: 寮祭の企画一覧を表示するサイトをHakyllで作った話
-thumbnail: "haskell.png"
+thumbnail: "ryosai.jpg"
 weight: 5
 ---
 

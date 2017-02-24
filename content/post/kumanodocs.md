@@ -4,7 +4,7 @@ date: 2017-02-24
 linktitle: 資料システム
 title: 資料システム
 description: 熊野寮内部で使われているブログサイトのようなもの
-thumbnail: "python.svg"
+thumbnail: "docs.jpg"
 weight: 5
 ---
 
