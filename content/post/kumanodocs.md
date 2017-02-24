@@ -17,8 +17,7 @@ weight: 5
 
 ソースコードは[kumanodocs](https://github.com/kumano-dormitory/kumanodocs)にあります。PythonのWebフレームワークDjangoで作成しました。
 
-ちょっと読んだらわかると思うんですが、汚いコードです。テストもないし（↓）。
-<script src="http://gist-it.appspot.com/github/kumano-dormitory/kumanodocs/blob/master/document_system/tests.py"></script>
+ちょっと読んだらわかると思うんですが、汚いコードです。テストもないし。
 リファクタリングするのも大変です（というか怖くて手が出ない）。
 これにテストを付けてリファクタリングするより、 Railsとか使って一から新しいの作ったほうが早そうですね。
 
