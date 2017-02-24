@@ -5,5 +5,4 @@ theme = "hugo_theme_aglaus"
 googleAnalytics = "UA-92377508-1"
 
 [params]
-	name = "Hugo"
-	description = "Kumano Dormitory IT Section"
+    description = """今まで作成したものや、参加したイベントなどの説明"""
