@@ -5,4 +5,4 @@ theme = "hugo_theme_aglaus"
 googleAnalytics = "UA-92377508-1"
 
 [params]
-    description = "今まで作成したものや、参加したイベントなどの説明"
+    description = "Products, Events."
